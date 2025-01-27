@@ -24,7 +24,7 @@ Film Factory is a user-friendly movie booking system designed to simplify online
 ## 🛠️ Tech Stack:  
 - **Programming Language:** Python (Pandas and Matplotlib) 
 - **Data Storage:** CSV files for managing movie details, bookings, and sales data  
-- **Visualization:** Matplotlib for generating graphs and charts  
+- **Visualization:** Matplotlib for generating graphs and charts
 
 
 ## 💡 Features:
@@ -36,8 +36,8 @@ Film Factory is a user-friendly movie booking system designed to simplify online
 - **Snacks Menu**: Browse a variety of snacks and beverages to purchase upon arrival.  
 
 ### 🔒 Admin Features:  
-- **Secure Access**: Admin panel secured with username and password.  
-- **Movie Management**: Add, update, or delete movies and snacks with ease.  
+- **Secure Access**: The admin panel is secured with a username and password.  
+- **Movie Management**: Add, update, or delete movies and snacks easily.  
 - **Visualization**: View sales and performance using Matplotlib-generated graphs.
 
 
